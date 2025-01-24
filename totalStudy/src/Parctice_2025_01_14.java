@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*; 
 import java.io.*;
 
 public class Parctice_2025_01_14 {
